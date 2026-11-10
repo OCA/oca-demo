@@ -26,6 +26,7 @@
         "remove_odoo_enterprise",
         "web_chatter_position",
         "web_dialog_size",
+        "web_navbar_light",
         "web_refresher",
         "web_responsive",
         "web_search_with_and",
