@@ -39,6 +39,7 @@
         "account_asset_management",
         "account_credit_control",
         "account_financial_report",
+        "account_invoice_overdue_reminder",
         "account_reconcile_oca",
         "account_statement_import_file_reconcile_oca",
         "account_statement_import_sheet_file",
@@ -70,6 +71,7 @@
         "sale_order_archive",
         "sale_order_line_price_history",
         "sale_product_multi_add",
+        "subscription_oca",
         # Purchase and inventory
         "partner_supplierinfo_smartbutton",
         "purchase_request",
