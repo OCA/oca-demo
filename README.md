@@ -18,7 +18,11 @@ This repository is made to contain a set of OCA demo modules, so that a Demo ins
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[oca_demo](oca_demo/) | 18.0.1.0.0 |  | Curated set of Odoo Community and OCA modules for a public demo
 
 [//]: # (end addons)
 
